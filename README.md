@@ -3,4 +3,4 @@ We are going to study and predict the sentiment and emotions of people during th
  
 There is also another additional feature in our project, the user can give any keyword as input and we give them results like the number of tweets that has the keyword, the states that have the maximum number of tweets containing the keyword and the sentiment breakdown of that keyword. Using our model, the user can get better perspective about the major problems prevailing in our country due to the pandemic.
 
-https://youtu.be/vd_oyLQu6sQ
+The demonstration video link: https://youtu.be/vd_oyLQu6sQ
