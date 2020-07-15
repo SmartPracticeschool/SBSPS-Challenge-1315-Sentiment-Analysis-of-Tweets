@@ -1,6 +1,8 @@
-API_key='rsbE7pZzmHbcx4zJBvPQjZ0Nk'
-API_secret_key='6V5yXmLugmVRAptALA2iv27j4M9plzTCdu5kaVeGcjjF1zvu3c'
-access_token='1169140087533309953-aESDcqqoNbcnD928LIycR7LqiE4eX3'
-access_token_secret='JrwD9zAQpthIwltJWFBlwGAbmi3PuJvIfkQULCgbPkxLx'
+#Twitter API keys
+API_key=''
+API_secret_key=''
+access_token=''
+access_token_secret=''
 
-plotly_token='pk.eyJ1IjoiamlsbC1hbXVkaGluaSIsImEiOiJja2JxdzdxbTcwMWYxMnNxeDgwNTFyaDY0In0.EEQoKyRRzHxKypU4jSGBHA'
+#Plotly mapbox token
+plotly_token=''
